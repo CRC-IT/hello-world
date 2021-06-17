@@ -1,2 +1,2 @@
 # hello-world
-Walk through repo
+We will be walking through how to use a Git flow
