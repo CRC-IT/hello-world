@@ -2,4 +2,5 @@
 This is a hello-world example in Python
 '''
 
-print('Hello, world!')
+for i in range(5):
+    print('Hello, world!')
